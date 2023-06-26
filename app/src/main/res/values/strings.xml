@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Happy Places</string>
+
+    <!--TODO (Step 5: Here we are adding the STRING values as a constants which are required to design the Add Happy Places Screen. And which is also a standard way to develop a application in android.)-->
+    <!--START-->
+    <string name="edit_text_hint_title">Title</string>
+    <string name="edit_text_hint_description">Description</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+    <string name="note_text_no_happy_places_found_yet">NO Happy Places Found Yet. Kindly add one.</string>
+
+    <string name="image_content_description">image</string>
+
+    <!--END-->
+</resources>
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<resources>-->
+<!--    <string name="app_name">Happy Place</string>-->
+<!--    &lt;!&ndash;TODO (Step 5: Here we are adding the STRING values as a constants which are required to design the Add Happy Places Screen. And which is also a standard way to develop a application in android.)&ndash;&gt;-->
+<!--    &lt;!&ndash;START&ndash;&gt;-->
+<!--    <string name="edit_text_hint_title">Title</string>-->
+<!--    <string name="edit_text_hint_description">Description</string>-->
+<!--    <string name="edit_text_hint_date">Date</string>-->
+<!--    <string name="edit_text_hint_location">Location</string>-->
+<!--    <string name="text_add_image">ADD IMAGE</string>-->
+<!--    <string name="btn_text_save">SAVE</string>-->
+<!--    &lt;!&ndash;END&ndash;&gt;-->
+
+<!--</resources>-->

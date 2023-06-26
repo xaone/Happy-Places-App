@@ -1,0 +1,17 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prabh/Downloads/HappyPlace/app/src/main/res/drawable/ic_my_icon.xml" value="0.3553846153846154" />
+        <entry key="..\:/Users/prabh/Downloads/HappyPlace/app/src/main/res/layout/activity_add_happy_place.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/prabh/Downloads/HappyPlace/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
